@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anshu Yadav
 
-I'm a Fullstack Developer with **2.7+ years** of experience, passionate about building performant and visually engaging web applications.
+I'm a Frontend Developer with **2.7+ years** of experience, passionate about building performant and visually engaging web applications.
 
 
 ### 🚀 Tech Stack
